@@ -1,6 +1,6 @@
 # sample-store-analysis
 
-howcases the creation of a visually appealing dashboard using Power BI for exploratory data analysis on a sample super store. The aim is to identify target features that can help increase profits. The dashboard includes several key elements:
+Showcases the creation of a visually appealing dashboard using Power BI for exploratory data analysis on a sample super store. The aim is to identify target features that can help increase profits. The dashboard includes several key elements:
 
 1)A donut chart displaying sales count by region.
 2)A stacked column chart showing sales and profit counts for each category (office supplies, technology, and furniture).
